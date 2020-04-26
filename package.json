@@ -16,6 +16,6 @@
     "chai": "^4.2.0",
     "mocha": "^7.1.1",
     "solidity-coverage": "^0.7.4",
-    "truffle": "^5.1.22"
+    "truffle": "^5.1.23"
   }
 }
